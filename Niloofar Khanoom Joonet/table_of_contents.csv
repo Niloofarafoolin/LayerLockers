@@ -1,0 +1,11 @@
+Model Index,Shape,Size X,Size Y,Size Z,Detail,Filename
+0,cylinder,1.39,1.98,1.85,11,cylinder_1.39_1.98_1.85_detail11_model0.stl
+1,sphere,1.64,1.13,0.89,3,sphere_1.64_1.13_0.89_detail3_model1.stl
+2,cube,1.35,1.70,0.59,,cube_1.35_1.70_0.59_detailNone_model2.stl
+3,cube,0.64,1.04,0.75,,cube_0.64_1.04_0.75_detailNone_model3.stl
+4,cube,1.39,0.70,1.87,,cube_1.39_0.70_1.87_detailNone_model4.stl
+5,cube,0.95,1.58,1.22,,cube_0.95_1.58_1.22_detailNone_model5.stl
+6,cylinder,0.88,1.04,1.54,11,cylinder_0.88_1.04_1.54_detail11_model6.stl
+7,cylinder,1.73,1.23,0.89,3,cylinder_1.73_1.23_0.89_detail3_model7.stl
+8,sphere,1.92,1.09,0.57,3,sphere_1.92_1.09_0.57_detail3_model8.stl
+9,cube,1.06,1.06,0.79,,cube_1.06_1.06_0.79_detailNone_model9.stl
